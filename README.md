@@ -53,7 +53,6 @@
 COIN_API_KEY=your_api_key_here
 ```
 3. 直接運行 `app` 模組。
-以幫你寫出更詳細的 **「Design Decisions (設計決策)」**，向面試官解釋為什麼你選擇 **Hilt 而不是 Koin**，或是為什麼選擇 **Compose 而不是 XML**。這通常是資深職位面試最愛問的部分。
 
 ---
 
